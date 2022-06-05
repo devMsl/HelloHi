@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "384928912762",
+    "project_id": "hellohi-df149",
+    "storage_bucket": "hellohi-df149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384928912762:android:7f169cdd0a2e7a94df32c3",
+        "android_client_info": {
+          "package_name": "com.msl.hellohi.hellohi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384928912762-m7m4tblksrnm8opjo4gl0litajgoot09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.msl.hellohi.hellohi",
+            "certificate_hash": "00e0d3ab11af417b5069b4e65a0af23fb73eb811"
+          }
+        },
+        {
+          "client_id": "384928912762-618mtqis9ti6klrf4q5ap7gtq4cbhl8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqSSq4wRlnBiTVYb5f-o2B_BnE2bL8W_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384928912762-618mtqis9ti6klrf4q5ap7gtq4cbhl8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "384928912762-bunpjt7oolbda1v2adnqk6t2itfpg33p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.msl.hellohi.hellohi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
