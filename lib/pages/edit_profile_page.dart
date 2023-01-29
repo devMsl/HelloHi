@@ -183,7 +183,7 @@ class _EditProfilePageState extends State<EditProfilePage> {
                         'Update',
                         style: TextStyle(fontSize: 14, color: Colors.white),
                       ),
-                      style: TextButton.styleFrom(backgroundColor: ThemeType.mainColor, primary: Colors.white),
+                      style: TextButton.styleFrom(backgroundColor: ThemeType.mainColor, foregroundColor: Colors.white),
                     ),
                   ],
                 ),
