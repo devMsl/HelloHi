@@ -295,13 +295,14 @@ class _ChatDetailPageState extends State<ChatDetailPage> {
     if (text.trim().isNotEmpty) {
       textEditingController.clear();
       chatProvider.sendMessage(
+        //update message collection
         text,
         type,
         groupChatId,
         currentUserId!,
         widget.peerId,
       );
-      chatProvider.updateDataFirestore(FirestoreConstants.pathUserCollection, currentUserId!, peerId: widget.peerId);
+      chatProvider.updateDataFirestore(FirestoreConstants.pathUserCollection, currentUserId!, peerId: widget.peerId); //update user collection
     }
   }
 
