@@ -1,6 +1,6 @@
 # HelloHi
 
-A Flutter chat app.
+A Flutter chat app using Firebase Auth, Google Sign-in, Cloud Firestore and Firebase Storage.
 
 ### Description
 
